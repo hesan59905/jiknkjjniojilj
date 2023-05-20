@@ -1,0 +1,16 @@
+div,h1{
+    text-align: center;
+    color: brown;
+    font-style: initial;
+    font-size: 190px;
+}
+nev{
+    font-size: 25px;
+    color: blueviolet;
+    text-align: center;
+    
+}
+body{
+    background-image: url('pexels-josh-sorenson-1714208.jpg');
+  background-size: cover;
+}
